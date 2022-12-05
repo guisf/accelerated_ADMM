@@ -27,4 +27,3 @@ an observed matrix, i.e., a low rank matrix and a sparse matrix. This problem ha
 The convergence rates of our methods are illustrated below:
 
 ![](https://github.com/guisf/accelerated_ADMM/blob/main/figs/rpca1.png)
-
