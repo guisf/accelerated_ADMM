@@ -6,7 +6,7 @@ Code related to the paper
 
 See also 
 
-* ![G. França, D. P. Robinsons, R. Vidal, "ADMM and accelerated ADMM as continuous dynamical systems," ICML (2018)](https://proceedings.mlr.press/v80/franca18a.html) for a previous results along these lines.
+* ![G. França, D. P. Robinsons, R. Vidal, "ADMM and accelerated ADMM as continuous dynamical systems," ICML (2018)](https://proceedings.mlr.press/v80/franca18a.html) for previous results along these lines.
 
 We propose two extensions of the (known) relaxed Alternating Direction Method of Multipliers (R-ADMM), called R-A-ADMM and R-HB-ADMM, which include relaxation and acceleration. These variants are faster than the original R-ADMM.
 
